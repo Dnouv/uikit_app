@@ -1,0 +1,16 @@
+{
+    "id": "e6b9c371-88c8-4868-a087-cf2dfd420f89",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.39.1",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Rafael Tapia",
+        "homepage": "tapiarafael",
+        "support": "."
+    },
+    "name": "UiKit",
+    "nameSlug": "uikit",
+    "classFile": "UiKitApp.ts",
+    "description": "UiKit Templates",
+    "implements": []
+}
